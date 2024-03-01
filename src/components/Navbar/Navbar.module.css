@@ -15,6 +15,7 @@
     font-weight: 600;
     text-decoration: none;
     color: var(--color-text);
+    text-shadow: 0 2px 2px black;
 }
 
 .menu {
@@ -25,6 +26,7 @@
     display: flex;
     gap: 47px;
     list-style: none;
+    text-shadow: 0 1px 1px black;
 }
 
 .menuItems a {
