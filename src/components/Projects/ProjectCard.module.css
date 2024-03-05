@@ -61,9 +61,14 @@
     background-color: var(--color-primary);
     padding: 1px 22px;
     box-shadow: 1px 1px 4px black;
+
+    position: relative;
+    top: 0;
+    transition: top ease 0.2s;
 }
 
 .link:hover {
     background: linear-gradient(130deg, var(--color-primary) 25%, var(--color-primary-contrast) 100%) ;
     box-shadow: 2px 2px 5px black;
+    top: -3px;
 }
