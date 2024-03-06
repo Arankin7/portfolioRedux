@@ -10,7 +10,10 @@ export const Hero = () => {
                 <h1 className={styles.title}>
                     Anthony Rankin                   
                 </h1>
-                <p className={styles.description}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum doloribus, nemo soluta sint vitae quo voluptates eius saepe tempora blanditiis delectus corporis natus officiis minima suscipit modi ea quaerat nostrum rem at consequuntur est atque voluptas eum. Quam eaque corrupti, dolores facilis velit beatae eum ratione dolore cumque ea placeat.
+                <p className={styles.description}>
+                Highly self-motivated, team player with strong organizational and interpersonal
+                skills. Consistently learning new skills to grow professionally and personally.
+                Eager to take on new roles, and not daunted by the unknown.
                 </p>
                 <a href="mailto:arankin789@gmail.com" className={styles.contactBtn}>Contact Me</a>
             </div>

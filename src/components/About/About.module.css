@@ -51,6 +51,11 @@
     transition: 0.25s;
 }
 
+.aboutItem img {
+    margin-right: 5%;
+    filter: invert(100%);
+}
+
 .aboutItem h3 {
     font-size: 25px;
     font-weight: 600;

@@ -1,5 +1,17 @@
 [
     {
+      "title": "C#",
+      "imageSrc": "skills/cSharp.png"
+    },
+    {
+      "title": "Unity",
+      "imageSrc": "skills/unityLogo.png"
+    },
+    {
+      "title": "Unreal",
+      "imageSrc": "skills/unrealLogo.png"
+    },
+    {
       "title": "HTML",
       "imageSrc": "skills/html.png"
     },
@@ -22,9 +34,5 @@
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
     }
   ]

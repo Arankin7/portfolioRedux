@@ -1,29 +1,18 @@
 [
     {
-      "role": "Software Engineer",
-      "organization": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Quality Assurance Lead",
+      "organization": "Digital Continue",
+      "startDate": "December, 2022",
+      "endDate": "July, 2023",
+      "experiences": ["Worked with management to identify workflow issues and implement solutions.", "Collaborated with Content Designers to ensure continuity.", "Partnered with engineers to find the root cause of any issues.", "Properly wrote up issues and bugs in Jira and assigned to appropriate engineer/designer."],
+      "imageSrc": "history/digitalContinue.png"
     },
     {
-      "role": "UI Designer",
-      "organization": "Microsoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organization": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "role": "Lab Manager",
+      "organization": "Lenscrafers",
+      "startDate": "April, 2012",
+      "endDate": "April, 2022",
+      "experiences": ["Created a safe, supportive, and motivating work environment.", "Utilized QMP knowledge to deliver quality products.", "Performed ongoing maintenance of equipment used throughout the lab.", "Diagnosed all lab equipment issues and completed all repairs in a timely manner."],
+      "imageSrc": "history/lenscrafters.png"
     }
   ]

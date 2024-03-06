@@ -1,26 +1,42 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/Calculator/0.png",
-        "description": "This is project A",
-        "skills": ["React", "Express", "Node"],
-        "demo": "google.com",
-        "source": "github.com/arankin7"
+        "title": "Puzzle Box",
+        "imageSrc": "projects/puzzleBox.png",
+        "description": "Interactable puzzle box made in Unity.",
+        "skills": ["Unity", "C#"],
+        "demo": "https://arankin7.itch.io/rube-cube",
+        "source": "https://github.com/Arankin7/rubiksCubeUnityApp"
     },
     {
-        "title": "Project B",
-        "imageSrc": "projects/Calculator/2.png",
-        "description": "This is project A",
-        "skills": ["React", "Express", "Node"],
-        "demo": "www.google.com",
-        "source": "github.com/arankin7"
+        "title": "Pong Clone",
+        "imageSrc": "projects/pongClone.png",
+        "description": "A simple clone of the classic game Pong!",
+        "skills": ["Unity", "C#"],
+        "demo": "https://arankin7.github.io/pongCloneBuild/",
+        "source": "https://github.com/Arankin7/pongClone"
     },
     {
-        "title": "Project C",
-        "imageSrc": "projects/Calculator/2.png",
-        "description": "This is project A",
-        "skills": ["React", "Express", "Node"],
-        "demo": "google.com",
-        "source": "github.com/arankin7"
+        "title": "Procedural Maze Generator",
+        "imageSrc": "projects/mazeGenerator.png",
+        "description": "Create a playable maze!",
+        "skills": ["Unity", "C#"],
+        "demo": "https://arankin7.itch.io/procedural-maze-generator",
+        "source": "https://github.com/Arankin7/unityMazeGenerator"
+    },
+    {
+        "title": "NewsApi",
+        "imageSrc": "projects/newsApi.png",
+        "description": "A simple app using NewsApi.org.",
+        "skills": ["Javascript", "HTML5", "CSS", "React"],
+        "demo": "https://github.com/Arankin7/newsApi-ims",
+        "source": "https://github.com/Arankin7/newsApi-ims"
+    },
+    {
+        "title": "Food Festival",
+        "imageSrc": "projects/foodFestival.png",
+        "description": "A project to learn more about PWAs and service workers.",
+        "skills": ["Javascript", "HTML5", "CSS"],
+        "demo": "https://arankin7.github.io/food-festival/",
+        "source": "https://github.com/Arankin7/food-festival"
     }
 ]
